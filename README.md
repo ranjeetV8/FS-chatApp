@@ -1,2 +1,2 @@
 # FS-chatApp
-A real time 
+A real time chat platfrom
