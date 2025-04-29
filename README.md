@@ -1,2 +1,2 @@
 # FS-chatApp
-A real time chat platfrom
+HI there I tried to build a real time chat web application.
